@@ -1,0 +1,21 @@
+h1 {
+	color: blue;
+	border-bottom: solid 3px purple;
+	font-family: Arial;
+	margin-bottom: 50px;
+}
+
+img {
+	width: 300px;
+}
+
+#description {
+	color: green;
+	font-weight: bold;
+}
+
+.interests {
+	font-size: 10px;
+	text-align: center;
+}
+
